@@ -1,0 +1,15 @@
+
+# Giriş yapma sayfası açıldığı doğrulanır
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/btnLogin" id'li element sayfada mı kontrol edilir
+
+# Kullanıcı adına text password alanına şifrey azılır
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" id'li elemente "text" stringini yaz
+* "1" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" id'li elemente "şifre" stringini yaz
+
+# İki kez geriye gidilerek ürünler sayfasına geri dönülür
+* "com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla

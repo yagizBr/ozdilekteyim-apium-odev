@@ -1,0 +1,8 @@
+
+# Seçilen ürün sayfasında favorilere ekle butonuna tıklanır
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
+
+# Seçilen ürün sayfasında sepete ekle butonuna tıklanır
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" id'li elemente tıkla

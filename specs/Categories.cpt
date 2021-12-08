@@ -1,0 +1,12 @@
+
+# Kategoriler sayfası açılır
+* "3" saniye bekle
+* "//android.widget.FrameLayout[@content-desc='Kategoriler']/android.widget.ImageView" xpath'li elemente tıkla
+* "3" saniye bekle
+* "//*[@text='Kadın']" xpath'li element sayfada mi kontrol edilir
+
+# Kadın ve pantolon kategorileri sırasıyla seçilir
+* "2" saniye bekle
+* "//*[@text='Kadın']" xpath'li elemente tıkla
+* "3" saniye bekle
+* "//*[@text='Pantolon']" xpath'li elemente tıkla

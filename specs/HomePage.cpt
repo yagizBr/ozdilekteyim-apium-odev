@@ -1,0 +1,10 @@
+
+# Uygulamanın açıldığı kontrol edilir
+
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id'li element sayfada mı kontrol edilir
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id'li elemente tıkla
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/relLayMarket" id'li element sayfada mı kontrol edilir
+
